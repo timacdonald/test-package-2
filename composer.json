@@ -9,6 +9,9 @@
             "role": "Developer"
         }
     ],
+    "conflict": {
+        "carbonphp/carbon-doctrine-types": "^3.0"
+    },
     "require": {
     },
     "autoload": {
